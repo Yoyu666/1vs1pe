@@ -5,9 +5,9 @@ api: 2.0.0
 author: HuaYoyu
 website: "https://github.com/Yoyu666/1vs1pe"
 commands:
-    buhc:
+    1vs1:
         usage: /1vs1 <leave-make>
-        description: BuildUHC-Commands
+        description: 1vs1 Command lits
     lang:
         usage: /lang <en>
         description: 1vs1-English-Lang
