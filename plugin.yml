@@ -1,1 +1,22 @@
 name: 1vs1pe
+main: Yoyu\1vs1pe\main
+version: 1.0
+api: 2.0.0
+author: HuaYoyu
+website: "https://github.com/Yoyu666/1vs1pe"
+commands:
+    buhc:
+        usage: /1vs1 <leave-make>
+        description: BuildUHC-Commands
+    lang:
+        usage: /lang <en>
+        description: 1vs1-English-Lang
+    rank1vs1:
+        usage: /rank
+        description: 1vs1-Commands
+    1vs1start:
+        usage: /1vs1start
+        description: 1vs1 start the game
+    smw:
+        usage: /smw
+        description: Set the Money went Win
